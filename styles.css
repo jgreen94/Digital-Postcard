@@ -1,0 +1,17 @@
+.divclass {font-family: lemonada, cursive; 
+font-size: 12px;
+border: solid black 100px;
+display:flex;
+flex-direction: column;}
+.divheading {position: relative; top:20px;}
+.headingclass {float:left;}
+.imgclass {float: right; height: 50px; width: 50px;}
+.bottomdiv {display:flex; flex-direction: row;}
+.pdiv {float:left; width: 50%;}
+.underlinediv {float:right; width: 50%;}
+.somename {border-bottom:1px solid black;}
+.someemail {border-bottom:1px solid black;}
+.underline3 {border-bottom:1px solid black;}
+.postcardclass {background-color:silver; margin:auto; padding: 5px; border-bottom: 1px solid black;}
+.underline1 {border-bottom:1px solid black; display:flex; flex-direction: row;}
+.underline2 {border-bottom:1px solid black; display:flex; flex-direction: row;}
